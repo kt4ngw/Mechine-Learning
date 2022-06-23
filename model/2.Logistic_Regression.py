@@ -15,4 +15,4 @@ Lr_clf = LogisticRegression(random_state=42).fit(X_train, y_train)
 # 评估模型 AUC
 # 测试集上评估模型的准确率AUC为100%
 from sklearn.metrics import accuracy_score
-accuracy_score(y_test, Lr_clf.predict(X_test))
+print(accuracy_score(y_test, Lr_clf.predict(X_test)))
