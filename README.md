@@ -8,6 +8,6 @@
 
 
 
-- 线性回归模型
+- [线性回归模型](https://github.com/kt4ngw/Mechine-Learning/blob/main/model/1.%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.md).
 - 逻辑斯蒂回归模型
 - 决策树分类模型
